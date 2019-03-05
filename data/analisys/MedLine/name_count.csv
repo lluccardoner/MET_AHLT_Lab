@@ -1,0 +1,556 @@
+digoxin,33
+morphine,29
+ethanol,28
+magnesium,25
+cocaine,22
+PCP,22
+theophylline,19
+olanzapine,17
+rifampin,16
+18-MC,16
+insulin,15
+fluvastatin,15
+alcohol,15
+glucose,14
+sirolimus,14
+ibogaine,14
+phenobarbital,13
+ketamine,13
+norepinephrine,13
+gentamicin,12
+warfarin,12
+diltiazem,12
+estradiol,12
+rifabutin,12
+risperidone,11
+endotoxin,11
+acetaminophen,11
+amprenavir,10
+indinavir,10
+zidovudine,10
+atracurium,10
+cisplatin,10
+haloperidol,10
+naloxone,10
+dmPGE2,10
+phenytoin,10
+tolbutamide,10
+oxytocin,9
+beta-endorphin,9
+everolimus,9
+fluvoxamine,9
+ouabain,9
+fluoxetine,9
+azithromycin,9
+toxin A,9
+cyclosporine,9
+sildenafil,9
+cobalt,9
+clindamycin,8
+zinc,8
+(-)-NANM,8
+verapamil,8
+PTX,8
+NaCMC,8
+noradrenaline,8
+As(V),8
+"1,3-difluoroacetone",8
+iron,8
+"1,3-difluoro-2-propanol",8
+neuroleptics,8
+ginsenosides,8
+contortrostatin,7
+(-)-erythro-fluorocitrate,7
+amphetamine,7
+cisapride,7
+rofecoxib,7
+CCNU,7
+gentamycin,7
+coumaphos,7
+probenecid,7
+(+)-NANM,7
+levofloxacin,7
+RR,7
+"1,25(OH)2D3",7
+resveratrol,6
+simvastatin,6
+glycine,6
+EGF,6
+InsP(3),6
+caffeine,6
+cloxacillin,6
+etodolac,6
+budesonide,6
+dideoxyinosine,6
+vancomycin,6
+halothane,6
+clozapine,6
+etofibrate,6
+tripelennamine,6
+antibiotics,6
+didanosine,6
+oxycodone,6
+ADL 8-2698,6
+Amprenavir,6
+thiosulfate,6
+retinyl acetate,6
+nevirapine,5
+METH,5
+NaFlu,5
+PI,5
+nicotine,5
+arsenate,5
+KRM-1648,5
+bombesin,5
+d-amphetamine,5
+cysteine,5
+MPTP,5
+progesterone,5
+pentazocine,5
+GL,5
+antihistaminics,5
+neurotensin,5
+3H-spiroperidol,5
+amphotericin B,5
+Olanzapine,5
+filipin,5
+pentobarbital,5
+ofloxacin,5
+Survanta,5
+carbachol,5
+prednisone,4
+glutamate,4
+methamphetamine,4
+opioid,4
+phencyclidine,4
+valproic acid,4
+melarsoprol,4
+ascorbic acid,4
+TAM,4
+arginine,4
+efavirenz,4
+DCG-IV,4
+nitrosourea,4
+minocycline,4
+amiodarone,4
+methaqualone,4
+Rifampin,4
+L-CCG-1,4
+cyclophosphamide,4
+glucocorticoids,4
+indomethacin,4
+diazepam,4
+Fe,4
+Everolimus,4
+cypermethrin,4
+quetiapine,4
+iodamide,4
+quinidine,4
+Misonidazole,4
+metamizol,4
+cimetidine,4
+ACTH,4
+PGF2alpha,4
+apomorphine,4
+tuftsin,4
+dexamethasone,3
+desipramine,3
+tacrolimus,3
+Glucose,3
+Dexamethasone,3
+doxorubicin,3
+NNRTI,3
+acetaldehyde,3
+CYP2C9,3
+Digoxin,3
+glutethimide,3
+radiopertechnetate,3
+phentolamine,3
+immunosuppressive drugs,3
+phenobarbital sodium,3
+Sildenafil,3
+omega-conotoxin GVIA,3
+clarithromycin,3
+picrotoxin,3
+perchlorate,3
+hydrocortisone,3
+nifedipine,3
+bacitracin,3
+neomycin,3
+jacalin,3
+vitamin D,3
+sertraline,3
+verografine,3
+benzodiazepine,3
+sandimmune,3
+anticoagulant,3
+POCs,3
+disulfiram,3
+4-methylpyrazole,3
+pargyline,3
+heroin,3
+enkephalins,3
+lidocaine,3
+vincristine,3
+diethyl pyrocarbonate,3
+antiretroviral,3
+Ibogaine,3
+chlordiazepoxide,3
+NANM,3
+dofetilide,3
+ciprofloxacin,3
+chloral hydrate,3
+Spermine,3
+antidepressants,3
+allopurinol,3
+atropine,3
+CMC-Cys,3
+Morphine,3
+Innovar,3
+trichlorfon,3
+fluoroquinolones,3
+delavirdine,2
+Jacalin,2
+miconazole,2
+sodium perchlorate,2
+angiotensin,2
+spermidine,2
+Sirolimus,2
+pentagastrin,2
+CPA,2
+somatostatin,2
+protease inhibitor,2
+Theophylline,2
+calcium blockers,2
+Loperamide,2
+highly active antiretroviral,2
+echistatin,2
+misonidazole,2
+carboxytolbutamide,2
+Azithromycin,2
+prostaglandin F2alpha,2
+galangin,2
+Imipramine,2
+IDV,2
+tricyclic antidepressant,2
+Cisapride,2
+Cysteine,2
+Magnesium,2
+omega-agatoxin IVA,2
+NNRTIs,2
+Anticoagulants,2
+trovafloxacin,2
+Etodolac,2
+moclobemide,2
+Amiodarone,2
+flavoridin,2
+radiopharmaceutical,2
+Antiretroviral,2
+rifampicin,2
+pertechnetate,2
+calcium antagonists,2
+cefazolin,2
+lung surfactant,2
+N-allylnormetazocine,2
+lovastatin,2
+nelfinavir,2
+Fluvoxamine,2
+Hydrocortisone,2
+Vitamin E,2
+carbamazepine,2
+Arginine,2
+ruthenium red,2
+calcium channel blocker,2
+Acetaminophen,2
+secobarbital,2
+polyene antibiotics,2
+HMG-CoA reductase inhibitors,2
+azoxymethane,2
+clonazepam,2
+AOM,2
+histamine,2
+4-hydroxytolbutamide,2
+N-methyllevallorphan,2
+antipsychotics,2
+atypical antipsychotic,2
+TML,2
+levonorgestrel,2
+nimodipine,2
+25-O-desacetylrifabutin,2
+Physostigmine,2
+Buforin II,2
+estrogen,2
+buforin II,2
+Gentamicin,2
+cerulein,2
+thiazide diuretics,2
+DPCPX,2
+CGS 21680,2
+Resveratrol,2
+ethynyl estradiol,2
+Cytochalasin D,2
+midazolam,2
+transferrin,2
+Atracurium,2
+temazepam,2
+digitalis,2
+99mTc-MDP,2
+"16,16-dimethylprostaglandin E2",2
+glitazones,2
+erection-supporting medication,2
+Clostridium difficile toxin A,2
+bishydroxycoumarin,2
+corticosteroids,1
+Sertraline,1
+gliftor,1
+rantidine hydrochloride,1
+anaesthetic agents,1
+pioglitazone,1
+beta-receptor blockers,1
+peripherally restricted opioid antagonist,1
+lithium,1
+cholestyramine,1
+magnesium salt,1
+verografin,1
+verapamil hydrochloride,1
+tricyclic antidepressants,1
+Flavoridin,1
+omega-agatoxin VIA,1
+sodium fluorescein,1
+chloramphenicol,1
+Co,1
+Rofecoxib,1
+macrolide antibiotics,1
+rapamycin,1
+methanol,1
+azathioprine,1
+topoisomerase-targeting antitumor drugs,1
+Nimodipine,1
+dextrose,1
+Diazepam,1
+immunosuppressants,1
+Fluvastatin,1
+norfloxacin,1
+pulmonary surfactant,1
+non-nucleoside reverse transcriptase inhibitors,1
+ADL-8-2698,1
+Bombesin,1
+cerivastatin,1
+Acetylcysteine,1
+angiotensin 2,1
+antihistaminic,1
+loperamide,1
+calcium-entry blockers,1
+loop diuretics,1
+Ethyl alcohol,1
+calcium-entry antagonists,1
+Neomycin,1
+carboxymethylcellulose-cysteine,1
+organophosphorous compound,1
+synthetic steroidal progestogen,1
+dofetillide,1
+second generation (atypical) antipsychotic agent,1
+alcohols,1
+enoxacin,1
+selective Ca(2+) channel blockers,1
+99mTc-methylene diphosphonate,1
+vitamin-D,1
+Cisplatin,1
+oxytetracycline,1
+fentayl,1
+pyreneperone,1
+phenobarbitone,1
+ginseng,1
+selenium,1
+"8-cyclopentyl-1,3-dipropylxanthine",1
+thiabendazole,1
+Cobalt,1
+enhancers,1
+nitrate,1
+Slow-channel calcium blockers,1
+Haloperidol,1
+antimicrobial agents,1
+25-O-desacetyl metabolites,1
+atypical neuroleptic,1
+adrenocortical steroid,1
+edrophonium,1
+Phencyclidine,1
+Echistatin,1
+amizyl,1
+synthetic 3-hydroxy-3-methylglutaryl coenzyme A (HMGCoA) reductase inhibitor,1
+isoproterenol,1
+anticoagulant agents,1
+solvent,1
+norethindrone,1
+amphetamines,1
+macrolide immunosuppressant,1
+orphenadrine,1
+antineoplastic drugs,1
+Green tea polyphenols,1
+hypoglycemic agents,1
+4-hydroxytamoxifen,1
+reverse transcriptase inhibitors,1
+pyrilamine,1
+long-acting nitrates,1
+Innovar Vet,1
+sodium dodecyl sulfate,1
+conventional antipsychotics,1
+diphenhydramine,1
+opioids,1
+hypnotic drugs,1
+hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors,1
+Chloral hydrate,1
+cyclosporin,1
+antiestrogen,1
+promoter,1
+miconazole nitrate,1
+droperidol,1
+Sodium thiosulfate,1
+bleomycin,1
+Fluoxetine,1
+Rifabutin,1
+antifungal drug,1
+Clonazepam,1
+analgesic agents,1
+Gliftor,1
+aminoglycoside antibiotic,1
+penicillins,1
+sodium carboxymethylcellulose,1
+promethazine,1
+n-dodecyl gallate,1
+Gentamycin,1
+Quetiapine fumarate,1
+xanthine derivatives,1
+immunodepressant,1
+green tea gallocatechins,1
+analgesic adjuvants,1
+sedatives,1
+hydroxylamine,1
+Vitamin D3,1
+benzodiazepines,1
+anxiolytic,1
+selective opioid agonists,1
+Carbamazepine,1
+paroxetine,1
+mazindol,1
+cardiotrast,1
+Cholestyramine,1
+norgestrel,1
+reseveratrol,1
+tannic acid,1
+18-Methoxycoronaridine,1
+Ascorbic acid,1
+ciclosporin,1
+Barbiturates,1
+kappa-selective opioids,1
+Ethanol,1
+vitamin E,1
+rosiglitazone,1
+hydroxyzine,1
+CGS21680,1
+Efavirenz,1
+Verapamil,1
+Midazolam,1
+drugs,1
+HMGCoA reductase inhibitors,1
+Clarithromycin,1
+SCH-23390,1
+anticonvulsant agents,1
+vitamin B6,1
+8-phenyltheophylline,1
+thienobenzodiazepine derivative,1
+magnesium sparing diuretics,1
+KCl,1
+benzoxazinorifamycin,1
+Castor oil,1
+psychostimulants,1
+antidiabetic agents,1
+palytoxin,1
+lead,1
+aminopyrine,1
+physostigmine,1
+Cypermethrin,1
+teniposide,1
+methdilazine,1
+Atropine,1
+progestin-only oral contraceptives,1
+acetylcysteine,1
+Cyclosporine,1
+25-Dihydroxycholecalciferol D3,1
+SSRIs,1
+bishydroxy-coumarin,1
+estrogens,1
+L-NAME,1
+cephaloridine,1
+methotrexate,1
+anticoagulants,1
+desacetyldiltiazem,1
+Viagra,1
+D-Ala2-metenkephalinamide,1
+Seroquel,1
+phosphate,1
+lomefloxacin,1
+propranolol,1
+Thiolated carboxymethylcellulose,1
+"1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine",1
+Sildenafil citrate,1
+Indinavir,1
+angiotensins,1
+mu-selective opioids,1
+sodium thiosulfate,1
+SSRI,1
+lithium carbonate,1
+synthetic steroidal estrogen,1
+short-acting nitrates,1
+desmethyldiltiazem,1
+anti-helminthic,1
+Etofibrate,1
+ACE inhibitors,1
+coumarin drugs,1
+delta(1)-selective opioids,1
+phenazepam,1
+ampicillin,1
+opiate,1
+calcium-entry blocking agents,1
+Insulin,1
+antidepressant drugs,1
+antibiotic agents,1
+Methamphetamine,1
+Valproic acid,1
+egg,1
+sodium bicarbonate,1
+Type II pyrethroid,1
+selective serotonin reuptake inhibitors,1
+antiretroviral drugs,1
+thiazolidinediones,1
+phenibut,1
+cytochalasin D,1
+Immunosuppressive drugs,1
+atorvastatin,1
+pravastatin,1
+"inositol 1,4,5-trisphosphate",1
+phenyltoloxamine,1
+N6-cyclopentyladenosine,1
+non-nucleoside reverse transcriptase inhibitor,1
+sildenafil citrate,1
+cardioplegic solutions,1
+Ganoderma lucidum extract,1
+Macrolide antibiotics,1
+putrescine,1
+analgesic drugs,1
+niacin,1
+Indomethacin,1
+"3-hydroxy-1,4-benzodiazepine",1
+trimethyl lead,1
+Palytoxin,1
+antidepressant agents,1
+Benzodiazepines,1
+angiotensin 1,1
+antiestrogens,1
+nitrosoureas,1
+heparin,1
+Diethyl pyrocarbonate,1
+calcium-channel blockers,1
+coumarin,1
+POC,1
+retinoids,1
