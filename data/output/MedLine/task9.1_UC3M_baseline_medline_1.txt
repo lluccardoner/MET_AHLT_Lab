@@ -183,26 +183,31 @@ DDI-MedLine.d221.s2|95-106|promethazin|drug
 DDI-MedLine.d221.s2|112-125|chlorpromazin|drug
 DDI-MedLine.d221.s2|251-255|drug|drug
 DDI-MedLine.d221.s3|88-92|drug|drug
-DDI-MedLine.d197.s0|1-9|Vitamin |drug
+DDI-MedLine.d197.s0|1-7|Vitami|drug
+DDI-MedLine.d197.s0|9-9||brand
 DDI-MedLine.d197.s0|15-19|drug|drug
 DDI-MedLine.d197.s1|21-25|drug|drug
-DDI-MedLine.d197.s1|31-39|vitamin |drug
+DDI-MedLine.d197.s1|31-37|vitami|drug
+DDI-MedLine.d197.s1|39-39||brand
 DDI-MedLine.d197.s2|20-24|drug|drug
 DDI-MedLine.d197.s4|0-0||brand
 DDI-MedLine.d197.s4|12-16|drug|drug
-DDI-MedLine.d197.s4|41-49|vitamin |drug
+DDI-MedLine.d197.s4|41-47|vitami|drug
+DDI-MedLine.d197.s4|49-49||brand
 DDI-MedLine.d197.s5|44-44||brand
 DDI-MedLine.d197.s5|56-58|PX|brand
 DDI-MedLine.d197.s5|82-86|CYP2|brand
 DDI-MedLine.d197.s5|124-125|O|brand
 DDI-MedLine.d197.s5|127-127||brand
-DDI-MedLine.d197.s5|141-149|vitamin |drug
+DDI-MedLine.d197.s5|141-147|vitami|drug
+DDI-MedLine.d197.s5|149-149||brand
 DDI-MedLine.d197.s6|53-58|agent|drug
 DDI-MedLine.d197.s6|83-87|drug|drug
 DDI-MedLine.d197.s6|151-160|inhibitor|drug
 DDI-MedLine.d197.s6|170-178|ritonavi|drug
 DDI-MedLine.d197.s6|184-193|saquinavi|drug
-DDI-MedLine.d197.s7|56-64|vitamin |drug
+DDI-MedLine.d197.s7|56-62|vitami|drug
+DDI-MedLine.d197.s7|64-64||brand
 DDI-MedLine.d197.s7|119-123|drug|drug
 DDI-MedLine.d197.s7|174-178|drug|drug
 DDI-MedLine.d226.s4|4-5|Q|brand
@@ -260,13 +265,15 @@ DDI-MedLine.d171.s5|197-198|P|brand
 DDI-MedLine.d171.s5|228-229|I|brand
 DDI-MedLine.d171.s6|191-195|drug|drug
 DDI-MedLine.d171.s7|15-17|HI|brand
-DDI-MedLine.d224.s0|66-83|carbamide peroxid|drug
+DDI-MedLine.d224.s0|66-74|carbamid|drug
+DDI-MedLine.d224.s0|76-83|peroxid|drug
 DDI-MedLine.d224.s1|108-113|agent|drug
 DDI-MedLine.d224.s1|171-179|carbamid|drug
 DDI-MedLine.d224.s3|51-59|carbamid|drug
 DDI-MedLine.d224.s4|25-33|carbamid|drug
 DDI-MedLine.d224.s8|19-20|S|brand
-DDI-MedLine.d224.s10|40-57|carbamide peroxid|drug
+DDI-MedLine.d224.s10|40-48|carbamid|drug
+DDI-MedLine.d224.s10|50-57|peroxid|drug
 DDI-MedLine.d157.s1|11-18|examine|drug
 DDI-MedLine.d157.s3|163-172|regulator|drug
 DDI-MedLine.d222.s2|165-166|S|brand
@@ -330,7 +337,8 @@ DDI-MedLine.d192.s2|87-94|dopamin|drug
 DDI-MedLine.d192.s2|97-98|D|brand
 DDI-MedLine.d192.s2|101-102|D|brand
 DDI-MedLine.d192.s2|108-109|D|brand
-DDI-MedLine.d192.s3|193-197|DA D|brand
+DDI-MedLine.d192.s3|193-194|D|brand
+DDI-MedLine.d192.s3|196-197|D|brand
 DDI-MedLine.d192.s3|206-207|D|brand
 DDI-MedLine.d192.s3|238-240|BL|brand
 DDI-MedLine.d192.s4|61-62|D|brand
@@ -339,13 +347,15 @@ DDI-MedLine.d192.s5|102-103|D|brand
 DDI-MedLine.d192.s5|114-115|D|brand
 DDI-MedLine.d192.s6|155-156|D|brand
 DDI-MedLine.d192.s6|161-162|D|brand
-DDI-MedLine.d192.s7|122-130|BLA D1/D|brand
+DDI-MedLine.d192.s7|122-124|BL|brand
+DDI-MedLine.d192.s7|126-130|D1/D|brand
 DDI-MedLine.d192.s7|182-189|morphin|drug
 DDI-MedLine.d192.s8|99-101|BL|brand
 DDI-MedLine.d192.s8|214-215|D|brand
 DDI-MedLine.d192.s8|220-221|D|brand
 DDI-MedLine.d192.s8|242-251|substrate|drug
-DDI-MedLine.d178.s1|49-63|P2Y12 adenosin|brand
+DDI-MedLine.d178.s1|49-53|P2Y1|brand
+DDI-MedLine.d178.s1|55-63|adenosin|drug
 DDI-MedLine.d175.s1|81-92|inflammator|drug
 DDI-MedLine.d175.s7|158-160|WH|brand
 DDI-MedLine.d175.s10|0-0||brand
@@ -407,12 +417,15 @@ DDI-MedLine.d152.s7|155-166|inflammator|drug
 DDI-MedLine.d152.s9|124-128|drug|drug
 DDI-MedLine.d152.s10|75-79|drug|drug
 DDI-MedLine.d186.s4|144-148|C4/C|brand
-DDI-MedLine.d186.s8|95-117|modulatory serotonergi|drug
+DDI-MedLine.d186.s8|95-104|modulator|drug
+DDI-MedLine.d186.s8|106-117|serotonergi|drug
 DDI-MedLine.d186.s8|120-131|dopaminergi|drug
 DDI-MedLine.d186.s8|137-149|noradrenergi|drug
-DDI-MedLine.d186.s9|50-71|monoaminergic agonist|drug
+DDI-MedLine.d186.s9|50-62|monoaminergi|drug
+DDI-MedLine.d186.s9|64-71|agonist|drug
 DDI-MedLine.d186.s10|23-34|serotonergi|drug
-DDI-MedLine.d186.s10|40-61|noradrenergic agonist|drug
+DDI-MedLine.d186.s10|40-52|noradrenergi|drug
+DDI-MedLine.d186.s10|54-61|agonist|drug
 DDI-MedLine.d186.s11|66-73|agonist|drug
 DDI-MedLine.d225.s0|16-20|drug|drug
 DDI-MedLine.d225.s3|77-79|EN|brand
@@ -470,7 +483,8 @@ DDI-MedLine.d196.s26|155-164|regulator|drug
 DDI-MedLine.d196.s26|305-308|aci|drug
 DDI-MedLine.d196.s27|11-14|aci|drug
 DDI-MedLine.d177.s1|27-31|drug|drug
-DDI-MedLine.d177.s3|64-80|concomitant drug|drug
+DDI-MedLine.d177.s3|64-74|concomitan|drug
+DDI-MedLine.d177.s3|76-80|drug|drug
 DDI-MedLine.d162.s3|26-28|IB|brand
 DDI-MedLine.d162.s3|258-260|IB|brand
 DDI-MedLine.d162.s4|138-140|IB|brand
@@ -502,8 +516,12 @@ DDI-MedLine.d170.s6|101-105|NKCC|brand
 DDI-MedLine.d170.s6|180-181|S|brand
 DDI-MedLine.d174.s0|16-25|inhibitor|drug
 DDI-MedLine.d174.s0|70-73|aci|drug
-DDI-MedLine.d174.s0|98-133|nonsteroidal anti-inflammatory drug|drug
-DDI-MedLine.d174.s1|0-35|Nonsteroidal anti-inflammatory drug|drug
+DDI-MedLine.d174.s0|98-109|nonsteroida|drug
+DDI-MedLine.d174.s0|111-127|anti-inflammator|drug
+DDI-MedLine.d174.s0|129-133|drug|drug
+DDI-MedLine.d174.s1|0-11|Nonsteroida|drug
+DDI-MedLine.d174.s1|13-29|anti-inflammator|drug
+DDI-MedLine.d174.s1|31-35|drug|drug
 DDI-MedLine.d174.s1|38-43|NSAID|drug
 DDI-MedLine.d174.s2|61-65|NSAI|brand
 DDI-MedLine.d174.s2|124-128|NSAI|brand
@@ -520,12 +538,17 @@ DDI-MedLine.d151.s5|61-67|digoxi|drug
 DDI-MedLine.d202.s3|19-35|immunosuppressan|drug
 DDI-MedLine.d202.s6|0-0||brand
 DDI-MedLine.d202.s6|155-155||brand
-DDI-MedLine.d232.s4|141-149|vitamin |drug
+DDI-MedLine.d232.s4|141-147|vitami|drug
+DDI-MedLine.d232.s4|149-149||brand
 DDI-MedLine.d232.s4|165-171|aspiri|drug
-DDI-MedLine.d232.s6|97-117|vitamin K antagonist|drug
+DDI-MedLine.d232.s6|97-103|vitami|drug
+DDI-MedLine.d232.s6|105-105||brand
+DDI-MedLine.d232.s6|107-117|antagonist|drug
 DDI-MedLine.d232.s7|33-46|anticoagulant|drug
 DDI-MedLine.d232.s8|15-28|anticoagulant|drug
-DDI-MedLine.d232.s8|85-105|vitamin K antagonist|drug
+DDI-MedLine.d232.s8|85-91|vitami|drug
+DDI-MedLine.d232.s8|93-93||brand
+DDI-MedLine.d232.s8|95-105|antagonist|drug
 DDI-MedLine.d149.s3|34-42|V-FITC/P|brand
 DDI-MedLine.d149.s3|61-63|MT|brand
 DDI-MedLine.d149.s3|169-170|A|brand

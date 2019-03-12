@@ -6,7 +6,7 @@ from xml.dom.minidom import parse
 
 from nltk.tokenize import word_tokenize
 
-## -------- classify_token ----------
+## ------------------- 
 ## -- check if a token is a drug, and of which type
 
 suffixes = ["idase", "idone", "uride", "ogens", "rinol", "amate", "lones", "pamil", "olone", "parin", "ssant", "udine",
@@ -29,57 +29,71 @@ def classify_token(txt):
         return False, ""
 
 
-## --------- tokenize sentence ----------- 
+## --------- tokenize sentence -----------
 ## -- Tokenize sentence, returning tokens and span offsets
 
 def tokenize(txt):
     offset = 0
     tks = []
-    ## word_tokenize splits words, taking into account punctuations, numbers, etc.
     for t in word_tokenize(txt):
-        ## keep track of the position where each token should appear, and
-        ## store that information with the token
         offset = txt.find(t, offset)
-        tks.append((t, offset, offset + len(t) - 1))
+        tks.append((t, offset, offset + len(t)))
         offset += len(t)
-
-    ## tks is a list of triples (word,start,end)
     return tks
 
 
-## --------- Entity extractor ----------- 
+## --------- Entity extractor -----------
 ## -- Extract drug entities from given text and return them as
 ## -- a list of dictionaries with keys "offset", "text", and "type"
 
 def extract_entities(stext):
-    # convert the sentence to a list of tokens
+    result = []
     tokens = tokenize(stext)
 
-    # for each token, check whether it is a drug name or not
-    result = []
+    prev_drug = False
     for t in tokens:
         token_txt = t[0]
+
         (is_drug, tk_type) = classify_token(token_txt)
 
-        if is_drug:
+        if not is_drug and not prev_drug:
+            # non-drug token after a non-drug token.
+            # Nothing to do, just skip the token
+            continue
+
+        elif is_drug and not prev_drug:
+            # Is a drug token after a non-drug. Start of drug name.
+            # Remember offset start/end and drug type
             drug_start = t[1]
             drug_end = t[2]
             drug_type = tk_type
+            prev_drug = True
+
+        elif is_drug and prev_drug:
+            # Is a drug token after a drug token.
+            # Continuation of drug name. Update offset end
+            drug_end = t[2]
+            prev_drug = True
+
+        elif not is_drug and prev_drug:
+            # non-drug after a drug token.
+            # The drug name ended, output it
             e = {"offset": str(drug_start) + "-" + str(drug_end),
                  "text": stext[drug_start:drug_end],
                  "type": drug_type}
             result.append(e)
+            prev_drug = False
 
     return result
 
 
-## --------- MAIN PROGRAM ----------- 
+## --------- MAIN PROGRAM -----------
 ## --
 ## -- Usage:  baseline-NER-2.py target-dir
 ## --
-## -- Extracts Drug NE from all XML files in target-dir, and writes
-## -- them in the output format requested by the evalution programs.
+## -- Extracts Drug NER from all XML files in target-dir
 ## --
+
 
 # directory with files to process
 datadir = sys.argv[1]

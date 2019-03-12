@@ -1,38 +1,38 @@
-SCORES FOR THE GROUP: UC3M RUN=1
+SCORES FOR THE GROUP: UC3M_baseline RUN=1
 
 Strict matching (boundaries + type)
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	304	0	304	0	0	0
+123	63	0	118	111	304	0.41	0.4	0.41
 
 
 
 Exact matching
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	304	0	304	0	0	0
+145	41	0	118	111	304	0.49	0.48	0.48
 
 
 
 Partial matching
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	304	0	304	0	0	0
+145	0	41	118	111	304	0.49	0.54	0.51
 
 
 
 type matching
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	304	0	304	0	0	0
+133	53	0	118	111	304	0.45	0.44	0.44
 
 
 
 SCORES FOR ENTITY TYPE
 Exact matching on drug
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	180	0	180	0	0	0
+97	10	0	73	72	180	0.54	0.54	0.54
 
 
 Exact matching on brand
 cor	inc	par	mis	spu	total	prec	recall	F1
-0	0	0	53	0	53	0	0	0
+26	0	0	27	10	53	0.72	0.49	0.58
 
 
 Exact matching on group
@@ -47,6 +47,6 @@ cor	inc	par	mis	spu	total	prec	recall	F1
 
 MACRO-AVERAGE MEASURES:
 P	R	F1
-0	0	0
+0.32	0.26	0.28
 ________________________________________________________________________
 

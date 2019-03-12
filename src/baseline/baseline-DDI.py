@@ -49,7 +49,7 @@ def tokenize(txt):
 
 ## --------- MAIN PROGRAM ----------- 
 ## --
-## -- Usage:  baseline-NER.py target-dir
+## -- Usage:  baseline-NER-2.py target-dir
 ## --
 ## -- Extracts Drug NE from all XML files in target-dir
 ## --
