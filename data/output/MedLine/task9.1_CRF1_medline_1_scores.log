@@ -1,0 +1,52 @@
+SCORES FOR THE GROUP: CRF1_medline RUN=1
+
+Strict matching (boundaries + type)
+cor	inc	par	mis	spu	total	prec	recall	F1
+149	37	0	196	13	382	0.75	0.39	0.51
+
+
+
+Exact matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+173	13	0	196	13	382	0.87	0.45	0.6
+
+
+
+Partial matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+173	0	13	196	13	382	0.87	0.47	0.61
+
+
+
+type matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+155	31	0	196	13	382	0.78	0.41	0.53
+
+
+
+SCORES FOR ENTITY TYPE
+Exact matching on drug
+cor	inc	par	mis	spu	total	prec	recall	F1
+109	4	0	58	12	171	0.87	0.64	0.74
+
+
+Exact matching on brand
+cor	inc	par	mis	spu	total	prec	recall	F1
+0	0	0	6	0	6	0	0	0
+
+
+Exact matching on group
+cor	inc	par	mis	spu	total	prec	recall	F1
+32	3	0	55	2	90	0.86	0.36	0.5
+
+
+Exact matching on drug_n
+cor	inc	par	mis	spu	total	prec	recall	F1
+8	0	0	107	1	115	0.89	0.07	0.13
+
+
+MACRO-AVERAGE MEASURES:
+P	R	F1
+0.66	0.27	0.34
+________________________________________________________________________
+
