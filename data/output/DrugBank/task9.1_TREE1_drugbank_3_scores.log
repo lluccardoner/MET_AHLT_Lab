@@ -1,0 +1,52 @@
+SCORES FOR THE GROUP: TREE1_drugbank RUN=3
+
+Strict matching (boundaries + type)
+cor	inc	par	mis	spu	total	prec	recall	F1
+160	26	0	118	11	304	0.81	0.53	0.64
+
+
+
+Exact matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+162	24	0	118	11	304	0.82	0.53	0.65
+
+
+
+Partial matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+162	0	24	118	11	304	0.82	0.57	0.67
+
+
+
+type matching
+cor	inc	par	mis	spu	total	prec	recall	F1
+179	7	0	118	11	304	0.91	0.59	0.71
+
+
+
+SCORES FOR ENTITY TYPE
+Exact matching on drug
+cor	inc	par	mis	spu	total	prec	recall	F1
+120	11	0	49	7	180	0.87	0.67	0.75
+
+
+Exact matching on brand
+cor	inc	par	mis	spu	total	prec	recall	F1
+7	0	0	46	0	53	1	0.13	0.23
+
+
+Exact matching on group
+cor	inc	par	mis	spu	total	prec	recall	F1
+33	9	0	23	5	65	0.7	0.51	0.59
+
+
+Exact matching on drug_n
+cor	inc	par	mis	spu	total	prec	recall	F1
+0	0	0	6	0	6	0	0	0
+
+
+MACRO-AVERAGE MEASURES:
+P	R	F1
+0.64	0.33	0.39
+________________________________________________________________________
+
