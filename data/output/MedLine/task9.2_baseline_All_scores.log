@@ -1,0 +1,41 @@
+SCORES FOR the file: task9.2_baseline.txt
+Gold Dataset: /
+
+Partial Evaluation: only detection of DDI (regadless to the type)
+tp	fp	fn	total	prec	recall	F1
+22	41	73	95	0.3492	0.2316	0.2785
+
+
+Detection and Classification of DDI
+tp	fp	fn	total	prec	recall	F1
+12	51	83	95	0.1905	0.1263	0.1519
+
+
+________________________________________________________________________
+
+SCORES FOR DDI TYPE
+Scores for ddi with type mechanism
+tp	fp	fn	total	prec	recall	F1
+2	11	22	24	0.1538	0.0833	0.1081
+
+
+Scores for ddi with type effect
+tp	fp	fn	total	prec	recall	F1
+10	40	52	62	0.2	0.1613	0.1786
+
+
+Scores for ddi with type advise
+tp	fp	fn	total	prec	recall	F1
+0	0	7	7	0	0	0
+
+
+Scores for ddi with type int
+tp	fp	fn	total	prec	recall	F1
+0	0	2	2	0	0	0
+
+
+MACRO-AVERAGE MEASURES:
+	P	R	F1
+	0.0885	0.0612	0.0723
+________________________________________________________________________
+
