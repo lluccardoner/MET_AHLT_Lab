@@ -16,8 +16,10 @@ mechanism_clues = ["reduce", "reduces", "reduced", "decrease", "decreases", "dec
 ## -- check if a pair has an interaction, of which type
 
 def check_interaction(tokens, entities, e1, e2, pair):
+    e1_start = int(entities[e1][0])
     e1_end = int(entities[e1][-1])
     e2_start = int(entities[e2][0])
+    e2_end = int(entities[e2][-1])
 
     for t in tokens:
         tk_word = t[0]
@@ -25,6 +27,22 @@ def check_interaction(tokens, entities, e1, e2, pair):
         tk_end = t[2]
         if tk_start > e1_end and tk_end < e2_start:
             # the token is between both entities
+            # check if it is a word indicating interaction
+            if tk_word.lower() in effect_clues:
+                return "1", "effect"
+            elif tk_word.lower() in mechanism_clues:
+                return "1", "mechanism"
+
+        elif tk_end < e1_start:
+            # the token is before both entities
+            # check if it is a word indicating interaction
+            if tk_word.lower() in effect_clues:
+                return "1", "effect"
+            elif tk_word.lower() in mechanism_clues:
+                return "1", "mechanism"
+
+        elif tk_start > e2_end:
+            # the token is after both entities
             # check if it is a word indicating interaction
             if tk_word.lower() in effect_clues:
                 return "1", "effect"
